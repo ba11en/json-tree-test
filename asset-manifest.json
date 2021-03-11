@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/json-tree-test/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/json-tree-test/static/js/main.8dacd477.chunk.js",
-    "main.js.map": "/json-tree-test/static/js/main.8dacd477.chunk.js.map",
-    "runtime-main.js": "/json-tree-test/static/js/runtime-main.11cea8a2.js",
-    "runtime-main.js.map": "/json-tree-test/static/js/runtime-main.11cea8a2.js.map",
-    "static/js/2.be52813d.chunk.js": "/json-tree-test/static/js/2.be52813d.chunk.js",
-    "static/js/2.be52813d.chunk.js.map": "/json-tree-test/static/js/2.be52813d.chunk.js.map",
-    "static/js/3.e350b3f3.chunk.js": "/json-tree-test/static/js/3.e350b3f3.chunk.js",
-    "static/js/3.e350b3f3.chunk.js.map": "/json-tree-test/static/js/3.e350b3f3.chunk.js.map",
+    "main.js": "/json-tree-test/static/js/main.0feb94eb.chunk.js",
+    "main.js.map": "/json-tree-test/static/js/main.0feb94eb.chunk.js.map",
+    "runtime-main.js": "/json-tree-test/static/js/runtime-main.0204b1ed.js",
+    "runtime-main.js.map": "/json-tree-test/static/js/runtime-main.0204b1ed.js.map",
+    "static/css/2.54bc7213.chunk.css": "/json-tree-test/static/css/2.54bc7213.chunk.css",
+    "static/js/2.802a35d6.chunk.js": "/json-tree-test/static/js/2.802a35d6.chunk.js",
+    "static/js/2.802a35d6.chunk.js.map": "/json-tree-test/static/js/2.802a35d6.chunk.js.map",
+    "static/js/3.8f142593.chunk.js": "/json-tree-test/static/js/3.8f142593.chunk.js",
+    "static/js/3.8f142593.chunk.js.map": "/json-tree-test/static/js/3.8f142593.chunk.js.map",
     "index.html": "/json-tree-test/index.html",
+    "static/css/2.54bc7213.chunk.css.map": "/json-tree-test/static/css/2.54bc7213.chunk.css.map",
     "static/css/main.ab7136cd.chunk.css.map": "/json-tree-test/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.be52813d.chunk.js.LICENSE.txt": "/json-tree-test/static/js/2.be52813d.chunk.js.LICENSE.txt",
+    "static/js/2.802a35d6.chunk.js.LICENSE.txt": "/json-tree-test/static/js/2.802a35d6.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/json-tree-test/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.11cea8a2.js",
-    "static/js/2.be52813d.chunk.js",
+    "static/js/runtime-main.0204b1ed.js",
+    "static/css/2.54bc7213.chunk.css",
+    "static/js/2.802a35d6.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.8dacd477.chunk.js"
+    "static/js/main.0feb94eb.chunk.js"
   ]
 }
